@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #4e72df;
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: white;
+  border-bottom: 1px solid white;
+  border-radius: 5px;
+  margin: 2px 2px;
+  padding: 5px;
+  font-weight: bold;
+  background-color: #4e72df;
+}
+
+.link-text {
+  color: white;
+  padding: 2rem;
+}
+
+.custom-button {
+  background-color: #4e72df !important;
+  color: yellow;
+}
